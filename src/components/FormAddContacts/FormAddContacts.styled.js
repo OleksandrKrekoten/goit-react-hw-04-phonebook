@@ -46,6 +46,8 @@ export const Button = styled.button`
     padding: 4px 8px;
     border-radius: 12px;
     border: none;
+    background-color: #0b0e24;
+    color: white;
     :disabled {
         background-color: #8f96a3;
         color: white;
